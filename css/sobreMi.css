@@ -1,0 +1,41 @@
+.sobreMi{
+	background-color: #000000;
+	color: #ffffff;
+	width: 1440px;
+}
+
+header{
+	height: 150px;
+	background-color: #000000;
+}  
+h1{
+	color: #ffffff;
+}
+
+.contenedor{
+	background-color: #000000;
+	margin: auto;
+	text-align: justify;
+	width: 100%;
+	
+
+}
+
+.imagenAvatar{
+	border-radius: 50%;
+	margin-bottom: 50px;
+}
+
+.caja{
+	display: inline-block;
+    margin: 100px 10px;
+    font-family: 'Barlow', sans-serif;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    letter-spacing: 2.5px;
+    font-weight: 400;
+	position: absolute;
+	width: 700px;
+	word-spacing: 5px;
+}
+
